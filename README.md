@@ -322,12 +322,9 @@ if True:
 ---
 
 
+# CSDN
 
----
-
-# License
-
-MIT License
+[XMYX-0](https://blog.csdn.net/weixin_42434700)
 
 ---
 
